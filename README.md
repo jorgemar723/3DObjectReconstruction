@@ -308,4 +308,5 @@ This project is for educational purposes as part of CS 4337 at Texas State Unive
 
 ## Contact
 - Jorge Martinez-Lopez: [GitHub](https://github.com/jorgemar723)
-- Kristian Parra: [GitHub](https://github.com/ybs12)
+- Kristian Parra: [GitHub](https://github.com/kristian)
+
