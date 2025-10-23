@@ -46,7 +46,8 @@ The pipeline demonstrates: **PyTorch3D rendering → SIFT feature detection → 
 └── .gitignore
 ```
 
-**Note**: ShapeNet dataset files are **NOT** included in this repo due to size (chairs: 1.83GB, cars: 5.30GB).  
+**Note**: ShapeNet dataset files are **NOT** included in this repo due to size (chairs: 1.83GB, cars: 5.30GB).
+**Second Note** ShapeNet may require permission to view.
 Download from [HuggingFace ShapeNetCore](https://huggingface.co/datasets/ShapeNet/ShapeNetCore) if reproducing ShapeNet experiments.
 
 ---
@@ -309,5 +310,6 @@ This project is for educational purposes as part of CS 4337 at Texas State Unive
 ## Contact
 - Jorge Martinez-Lopez: [GitHub](https://github.com/jorgemar723)
 - Kristian Parra: [GitHub](https://github.com/KristianParra)
+
 
 
