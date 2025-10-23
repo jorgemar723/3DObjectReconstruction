@@ -5,7 +5,7 @@ This project implements a **multi-view 3D reconstruction pipeline** using both s
 The pipeline demonstrates: **PyTorch3D rendering → SIFT feature detection → feature matching → camera pose estimation → triangulation → sparse 3D point cloud reconstruction → interactive web visualization**.
 
 **Course**: CS 4337 — Introduction to Computer Vision (Fall 2025)  
-**Instructor**: Dr. Bhandari  
+**Instructor**: Dr. Keshav Bhandari  
 **Team Members**: Jorge Martinez-Lopez, Kristian Parra  
 
 ---
@@ -310,6 +310,7 @@ This project is for educational purposes as part of CS 4337 at Texas State Unive
 ## Contact
 - Jorge Martinez-Lopez: [GitHub](https://github.com/jorgemar723)
 - Kristian Parra: [GitHub](https://github.com/KristianParra)
+
 
 
 
