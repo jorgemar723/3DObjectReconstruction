@@ -257,14 +257,14 @@ uploaded = files.upload()
 
 ## Presentation Structure
 
-### Jorge's Section (ShapeNet Pipeline)
+### First Section (ShapeNet Pipeline)
 - Project overview and goals
 - ShapeNet dataset and PyTorch3D rendering
 - Feature detection and matching visualization
 - Camera pose estimation theory
 - Sparse reconstruction results (chair + car)
 
-### Kristian's Section (Real-World Extension)
+### Second Section (Real-World Extension)
 - Motivation for real-world testing
 - Photo capture methodology
 - Real object reconstruction results
@@ -285,15 +285,6 @@ uploaded = files.upload()
 
 ---
 
-## Timeline
-- **Week 1-4**: ShapeNet pipeline development (Jorge)
-- **Week 5-6**: Real-world photo reconstruction (Kristian)
-- **Week 6-7**: Web viewer implementation (Kristian)
-- **Week 8**: Integration, testing, and documentation
-- **Week 9-10**: Presentation preparation and final report
-
----
-
 ## References
 - [ShapeNet Dataset](https://shapenet.org)
 - [PyTorch3D Documentation](https://pytorch3d.org/)
@@ -311,6 +302,7 @@ This project is for educational purposes as part of CS 4337 at Texas State Unive
 ## Contact
 - Jorge Martinez-Lopez: [GitHub](https://github.com/jorgemar723)
 - Kristian Parra: [GitHub](https://github.com/KristianParra)
+
 
 
 
