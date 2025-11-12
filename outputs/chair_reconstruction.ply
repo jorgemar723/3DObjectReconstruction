@@ -1,0 +1,9 @@
+ply
+format binary_little_endian 1.0
+comment https://github.com/mikedh/trimesh
+element vertex 6
+property float x
+property float y
+property float z
+end_header
+ªAU§]¯&-%ê(ªAU§]¯&-%ê(ªAU§]¯&-%ê(ªAU§]¯&-%ê(ªAU§]¯&-%ê(ªAU§]¯&-%ê(
