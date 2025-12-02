@@ -8,7 +8,7 @@ The pipeline demonstrates: **PyTorch3D rendering → SIFT feature detection → 
 **Instructor**: Dr. Keshav Bhandari  
 **Team Members**: Jorge Martinez-Lopez, Kristian Parra  
 
-**Note** render_shapenet_views is not visible through GitHub, to view please use this link: https://colab.research.google.com/github/jorgemar723/3DObjectReconstruction/blob/main/notebooks/render_shapenet_views.ipynb
+**Note:** render_shapenet_views is not visible through GitHub, to view please use this link: https://colab.research.google.com/github/jorgemar723/3DObjectReconstruction/blob/main/notebooks/render_shapenet_views.ipynb
 
 ---
 
@@ -301,6 +301,7 @@ This project is for educational purposes as part of CS 4337 at Texas State Unive
 ## Contact
 - Jorge Martinez-Lopez: [GitHub](https://github.com/jorgemar723)
 - Kristian Parra: [GitHub](https://github.com/KristianParra)
+
 
 
 
