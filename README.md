@@ -37,10 +37,7 @@ The pipeline demonstrates: **PyTorch3D rendering → SIFT feature detection → 
 │   ├── real_object_views/                 # Real-world object photos
 │   ├── chair_reconstruction.ply           # Sparse 3D point cloud (chair)
 │   └── real_object_reconstruction.ply     # Sparse 3D point cloud (real object)
-│
-├── web_viewer/                            # Interactive 3D viewer
-│   ├── index.html                         # Three.js viewer interface
-│   └── reconstruction.json                # Point cloud data for web rendering
+│              
 │
 ├── README.md
 └── .gitignore
@@ -302,6 +299,7 @@ This project is for educational purposes as part of CS 4337 at Texas State Unive
 ## Contact
 - Jorge Martinez-Lopez: [GitHub](https://github.com/jorgemar723)
 - Kristian Parra: [GitHub](https://github.com/KristianParra)
+
 
 
 
